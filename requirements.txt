@@ -1,0 +1,5 @@
+streamlit
+sqlite3-binary
+pdfminer.six
+python-docx
+spacy
